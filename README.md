@@ -10,7 +10,6 @@ Small and scalable demo backend.
 
 ## Security
 - JWT-based authentication using FastAPI dependencies
-- Clear separation between authentication and business logic
 - Designed for easy extension to role-based access control (RBAC)
 
 ## Run
